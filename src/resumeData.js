@@ -20,8 +20,8 @@ let resumeData = {
     "className":"fa fa-map-marker",
 
     "address":"Taipei, Taiwan",
-    "website":"https://103071073.github.io/resume",
-    "mail":"Email: josmyfaure@gmail.com",
+    "website":"https://103071073.github.io/resume/",
+    "mail":"Email: julie22350@gmail.com",
     "education":[
       {
         "UniversityName":"National Taiwan University",
